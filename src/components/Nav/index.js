@@ -2,19 +2,19 @@ import React from 'react';
 
 const categories = [
     {
-        name: 'commercial',
+        name: 'Commercial',
         description: 'Photos of grocery stores, food trucks, and other commercial products',
     },
     {
-        name: 'portraits',
+        name: 'Portraits',
         description: 'Portraits of people in my life',
     },
     {
-        name: 'food',
+        name: 'Food',
         description: 'Delicious delicacies',
     },
     {
-        name: 'landscape',
+        name: 'Landscape',
         description: 'Fields, farmhouses, waterfalls, and the beauty of nature',
     },
 ];
